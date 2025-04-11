@@ -1,0 +1,11 @@
+pillow
+numpy
+scipy
+opencv-python
+scikit-learn
+matplotlib
+scikit-image
+imageio
+tifffile
+pandas
+scikit-fuzzy
